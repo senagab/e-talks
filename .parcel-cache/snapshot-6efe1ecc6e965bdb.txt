@@ -6,7 +6,7 @@
 138C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gfilteroutputstream.h133117882010000000 0
 73C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\is-glob133684098991372744 1
 93C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\dom-serializer\lib\index.js133684098992031872 0
-68C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\index.html133684685237803607 0
+68C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\index.html133684690749718946 0
 124C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcsse.h133117882010000000 0
 132C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftsynth.h133117882010000000 0
 104C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\term-size\vendor\windows\term-size.exe133684098994953915 0
@@ -33,7 +33,7 @@
 119C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133684099001818155 0
 91C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\lmdb\dependencies\lz4\lib133684099002503173 1
 85C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\github-from-package133684107345351234 1
-75C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\index.f75de5e1.js133684683641851431 0
+75C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\index.f75de5e1.js133684689691390511 0
 88C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\domelementtype\LICENSE133684098990623412 0
 121C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133684099001928349 0
 74C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\src\styles\_hero.scss133684675200899618 0
@@ -42,10 +42,10 @@
 122C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaQuery.js133684099036985577 0
 112C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@swc\helpers\_\_wrap_native_super\package.json133684099005065716 0
 90C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\napi-build-utils\LICENSE133684107345058567 0
-73C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\scripts\main.js133684683641953712 0
+73C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\scripts\main.js133684689691390511 0
 75C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\csso\dist133684099000343891 1
 56C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\src133684106009010937 1
-77C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\scripts\main.js.map133684683641975036 0
+77C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\scripts\main.js.map133684689691405676 0
 126C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\plugins.js133684098996465112 0
 87C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\escalade\package.json133684098991639178 0
 116C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\css-select\lib\esm\pseudo-selectors\aliases.js.map133684098995695247 0
@@ -101,7 +101,7 @@
 90C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\weak-lru-cache\README.md133684098993225182 0
 90C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\abortcontroller-polyfill133684098998854879 1
 97C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\source-map\lib\binary-search.js133684098992651213 0
-57C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist133684685237803607 1
+57C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist133684690749731993 1
 129C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gactionmap.h133117882010000000 0
 142C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\default.js133684098996837657 0
 107C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@swc\helpers\_\_object_without_properties133684099004454850 1
@@ -115,7 +115,7 @@
 139C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-output-iochannel.h133117882010000000 0
 115C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo.cmd133684099041031981 0
 65C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules133684107405075078 1
-72C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\src\scripts\main.js133684103681263342 0
+72C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\src\scripts\main.js133684689691219769 0
 97C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\source-map-js\lib\quick-sort.js133684098992524342 0
 131C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftbbox.h133117882010000000 0
 105C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\htmlnano\lib\modules\sortAttributes.cjs133684098997230636 0
@@ -149,7 +149,7 @@
 85C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\type-fest\base.d.ts133684098993396677 0
 111C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\caniuse-lite\data\features\input-inputmode.js133684099006921538 0
 89C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\node-addon-api\index.js133684098995425435 0
-67C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\src\index.html133684685237602372 0
+67C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\src\index.html133684690749511418 0
 105C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\htmlnano\lib\modules\removeComments.mjs133684099001027553 0
 88C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\css-tree\dist\data.cjs133684098995979014 0
 110C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\utility-types\dist\functional-helpers.js.map133684098994855757 0
@@ -6177,7 +6177,7 @@
 84C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@parcel\source-map133684099010253287 1
 126C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node133684099001653043 1
 90C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@parcel\transformer-html133684099015054842 1
-65C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\scripts133684683641979232 1
+65C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\scripts133684689691415727 1
 91C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@parcel\transformer-image133684099007481653 1
 88C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@parcel\transformer-js133684099012697207 1
 90C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\@parcel\reporter-cli\src133684099032896379 1
@@ -7175,7 +7175,7 @@
 93C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\.bin\update-browserslist-db133684099041031981 0
 97C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\node_modules\.bin\update-browserslist-db.cmd133684099041031981 0
 92C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\modulo 22 - ebac talks.59712999.js133684683641851431 0
-79C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\index.f75de5e1.js.map133684683641861446 0
 75C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\data.b5acb70a.png133684683641861446 0
 80C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\ebac_logo.a50a4e19.svg133684683642014532 0
 73C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\styles\main.css133684687251332101 0
+79C:\Users\senag\Documents\EBAC\modulo 22 - ebac talks\dist\index.f75de5e1.js.map133684689691405676 0
