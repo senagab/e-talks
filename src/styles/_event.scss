@@ -4,19 +4,19 @@
     
     padding: 80px 0;
     
-    &--frontend {
+    &--friends {
         background-image: linear-gradient(variables.$color1, variables.$color2);
     }
 
-    &--ux-ui {
+    &--drinks {
         background-image: linear-gradient(variables.$color2, variables.$color3);
     }
 
-    &--data-science {
+    &--food {
         background-image: linear-gradient(variables.$color3, variables.$color4);
     }
 
-    &--backend {
+    &--pictures {
         background-image: linear-gradient(variables.$color4, variables.$color2);
     }
 
@@ -33,6 +33,22 @@
 
     &__image {
         max-width: 360px;
+
+        &--friends {
+            transform: rotate(-2deg);
+        }
+
+        &--drinks {
+            transform: rotate(2deg);
+        }
+
+        &--food {
+            transform: rotate(-2deg);
+        }
+
+        &--pictures {
+            transform: rotate(2deg);
+        }
     }
 
     &__details {
